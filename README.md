@@ -11,5 +11,9 @@
 
 https://honzaap.github.io/GithubCity/?name=niwatorinoko&year=2023
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 📫 How to reach me ...
+[![contact](https://skillicons.dev/icons?i=twitter&perline=10)](https://skillicons.dev)
+https://twitter.com/panda_niushe
+
+[![contact](https://skillicons.dev/icons?i=discord&perline=10)](https://skillicons.dev)
+@panda_niushe
