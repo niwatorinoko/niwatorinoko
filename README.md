@@ -1,5 +1,5 @@
 # 🐼Rean's Profile🐼
-👋 Hi, I’m @niwatorinoko. I am studying Information Management in Taiwan.
+👋 Hi, I’m @niwatorinoko. I am learning Information Management in Taiwan.
 
 ### 🌱 I’m currently learning ...
 [![My Skills](https://skillicons.dev/icons?i=html,css,gcp,py,cpp,cs,dotnet,js,nextjs,ruby&perline=10)](https://skillicons.dev)
