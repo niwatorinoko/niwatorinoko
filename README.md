@@ -9,8 +9,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niwatorinoko&theme=onedark)](https://github.com/niwatorinoko/github-profile-trophy)
 
-https://honzaap.github.io/GithubCity/?name=niwatorinoko&year=2023
-
 ### 📫 How to reach me ...
 [![contact](https://skillicons.dev/icons?i=twitter&perline=10)](https://skillicons.dev)
 https://twitter.com/panda_niushe
